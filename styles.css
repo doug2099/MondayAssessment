@@ -5,6 +5,10 @@ background-color: rgb(192, 192, 199);
 }
 
 .h1 {
-background-color: black;
-color: blanchedalmond;
+font-weight: bolder;
+}
+
+.h2 {
+font-weight: bold;
+
 }
